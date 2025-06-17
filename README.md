@@ -1,3 +1,14 @@
+**Company**: CODTECH IT SOLUTIONS
+
+**Name**: MATTA VINEETHA
+
+**Intern ID**: CT04DN1454
+
+**Domain**: Python Programming
+
+**Duration**: 4 weeks
+
+Mentor: NEELA SANTHOSH
 Machine Learning Model Implementation 
 --
 📌 Overview
